@@ -1,4 +1,4 @@
 ### Introducing Myself
 
-I'm Donny Nguyen and I'm currently a student at the University of Washington Bothell.
+I'm Donny Nguyen and I'm striving towards a career in Data Analytics!
 
